@@ -7,12 +7,12 @@ const async = require('async');
 const app = express();
 const mongoose = require('mongoose');
 require('dotenv').config(); // to access env variables
-
+const keys = require('./config/keys');
 //============================
 //mongoose middleware
 //===========================
 mongoose.Promise = global.Promise;
-mongoose.connect(process.env.MONGODB_URI, {
+mongoose.connect(keys.mongoURI, {
   useNewUrlParser: true
 })
   .then(() => console.log('MongoDB Connected...'))
