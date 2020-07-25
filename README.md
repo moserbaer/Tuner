@@ -1,5 +1,5 @@
 # Tuner
-E-commerece CMS website build using MERN(MongoDB,Express,React,Node) technology stack having both user and admin dashboard intigreated with Paypal payment portal.
+E-commerce CMS website build using MERN(MongoDB, Express, React, Node) technology stack having both user and admin dashboard integrated with the Paypal payment portal.
 
 Technology Stack used:
 1. Database: MongoDB (M)
