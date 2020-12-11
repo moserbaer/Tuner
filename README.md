@@ -22,4 +22,4 @@ Admin feature
 2. Enabling and disabling products
 3. Can change site Info like email,phone etc.
 
-LINKS: https://hidden-ocean-50310.herokuapp.com/
+LINK: https://hidden-ocean-50310.herokuapp.com/
